@@ -1,0 +1,72 @@
+body{
+background:url(header.jpg);
+background-size:contain;
+background-position: center;
+    background-repeat: no-repeat;
+   background-color:cadetblue;
+   
+}
+#navbar{
+     width:99%;
+    background-color:white;
+    height: 60px;
+    top: 1px;
+    position: fixed;
+    float: left;
+    margin: 0px;
+    color: white;
+    font-size:50px;
+  text-shadow: 1px 1px 1px black;   
+}
+
+nav{
+ 
+  display: inline-block;
+    float: right;
+    position:fixed;
+    right: 0px;
+    top:-10px;
+}
+a
+{margin: auto 40px;
+   
+    height: 10px;
+    width: 150px;
+    font-size: 35px;
+    color:darkgrey;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+    padding: 14px;
+   
+} #icon{
+
+ 
+    
+   float:left;
+    position: absolute;
+    margin-top:-87px;
+    height:230px; 
+    
+    
+    
+}
+footer{
+    background-color:greenyellow;
+    height:140px;
+    bottom:3px;
+    position: absolute;
+    width:99%;
+}
+#fore{
+    height:130px;
+    width:130x;
+    background-color: white;
+    margin:5px;
+}
+.data{
+    color:white;
+    text-shadow:1px 1px 1px black;
+    font-family: Viner Hand ITC;
+    
+    margin-top:120px;
+}

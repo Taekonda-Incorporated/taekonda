@@ -1,0 +1,47 @@
+body{
+    background-color: cadetblue;
+}
+
+
+#page{
+    height:60px;
+   background-color: white;
+    margin-top:-7px;
+}
+footer{
+    width:100%;
+    height:200px;
+    background-color:greenyellow;
+}
+
+nav{
+ 
+  display: inline-block;
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#img{
+     
+    
+    float:left;
+    position: absolute;
+    margin-top:-87px;
+    height:230px;
+}
+.data{
+    height:406px;
+}
+a{
+    margin :auto 50px;
+    font-size: 35px;
+    color:darkgrey;
+    text-shadow:1px 1px 1px black;
+    text-decoration: none;
+}
+#hop{
+    background-color: white;
+    height:190px;
+    margin:5px;
+}
